@@ -26,7 +26,6 @@ numpy==1.18.4
 packaging==20.4
 pipwin==0.5.0
 protobuf==3.13.0
-PyAudio @ file:///C:/Users/asus/pipwin/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 pygame==2.0.1
 pyjsparser==2.7.1
 PyJWT==1.7.1
